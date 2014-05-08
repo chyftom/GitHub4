@@ -1,5 +1,3 @@
-F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\bin\MvcApplication4.dll
-F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\bin\MvcApplication4.pdb
 F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\bin\Antlr3.Runtime.dll
 F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\bin\DotNetOpenAuth.AspNet.dll
 F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\bin\DotNetOpenAuth.Core.dll
@@ -81,5 +79,7 @@ F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\bin\ru\System.Spatial.resourc
 F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\bin\zh-Hans\System.Spatial.resources.dll
 F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\bin\zh-Hant\System.Spatial.resources.dll
 F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\obj\Release\MvcApplication4.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\bin\MvcApplication4.dll
+F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\bin\MvcApplication4.pdb
 F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\obj\Release\MvcApplication4.dll
 F:\visual studio 2012\GitHub4\Mvc4\MvcApplication4\obj\Release\MvcApplication4.pdb
