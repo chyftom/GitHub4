@@ -15,7 +15,7 @@ namespace MvcApplication4.Controllers
 			return View();
 		}
 
-		public ActionResult Welcome(string name, int numTimes = 1)
+		public ActionResult Welcome(string name, int numTimes = 2)
 		{
 			ViewBag.Message = "Hello " + name;
 			ViewBag.NumTimes = numTimes;
