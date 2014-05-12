@@ -8,8 +8,12 @@ namespace _157Sugestion
 {
     class Program
     {
+
         static void Main(string[] args)
         {
+            readonlyCosnst6 sample = new readonlyCosnst6(200);
+            
+            //sample.ReadOnlyValue = 300;
         }
     }
 }
