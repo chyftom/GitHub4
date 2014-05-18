@@ -4,3 +4,4 @@ F:\visual studio 2012\GitHub4\Mvc4\157Sugestion\bin\Release\157Sugestion.pdb
 F:\visual studio 2012\GitHub4\Mvc4\157Sugestion\obj\Release\157Sugestion.csprojResolveAssemblyReference.cache
 F:\visual studio 2012\GitHub4\Mvc4\157Sugestion\obj\Release\157Sugestion.exe
 F:\visual studio 2012\GitHub4\Mvc4\157Sugestion\obj\Release\157Sugestion.pdb
+F:\visual studio 2012\GitHub4\Mvc4\157Sugestion\bin\Release\ICSharpCode.SharpZipLib.dll
